@@ -1,0 +1,12 @@
+node_modules
+dist/css/style.min.css
+dist/js/jquery.maskedinput.min.js
+dist/js/jquery.validate.min.js
+dist/js/slick.min.js
+dist/js/wow.min.js
+dist/mailer/phpmailer/README.md
+dist/mailer/phpmailer/travis.phpunit.xml.dist
+package-lock.json
+package.json
+project2/
+src/
